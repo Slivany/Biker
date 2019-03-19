@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Biker
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ Biker\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=name\ bulletWounds\ hospitalized
+comment1.target=Biker(java.lang.String,\ int,\ boolean)
+comment1.text=\r\n\ Konstrukt\u00F8r\ for\ objekter\ af\ klassen\ Biker\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getShots()
+comment4.params=
+comment4.target=boolean\ isHospitalized()
+comment5.params=other
+comment5.target=int\ compareTo(Biker)
+numComments=6
